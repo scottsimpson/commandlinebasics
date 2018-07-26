@@ -1,2 +1,2 @@
 #!/bin/env bash
-echo -e "\t\t\e[92mHello from the Test Script!\e[39m"
+echo -e "\n\tHello from the Test Script!\n"
